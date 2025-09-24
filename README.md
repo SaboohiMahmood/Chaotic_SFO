@@ -12,7 +12,7 @@ BasicSFO -- This code is the most important one, implemented by the author herse
 
 How to run the code? 
 
-Simply download all the code and run main file. You can change map number, function number, and number of iterations from this file. for the users' ease, this code also uses exports all the data into Excel sheet.
+Simply download all the code and run main file. You can change map number, function number, and number of iterations from this file. for the users' ease, this code also exports all the data into Excel sheet.
 
 If you need further help on this code, you can contact me on the given email address. 
 
